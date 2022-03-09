@@ -1,5 +1,5 @@
 
-# Uma Api CRUD com paginação 
+# Uma Api REST com paginação 
 
 
 
