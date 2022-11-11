@@ -11,7 +11,7 @@
 - Maven Project
 - Spring Web
 - Spring Data JPA
-- PostgreSQL
+- MySql
 
 ## Postman documetação 
 - https://documenter.getpostman.com/view/17952036/UVJeEwAT
