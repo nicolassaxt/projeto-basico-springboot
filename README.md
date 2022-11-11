@@ -7,7 +7,7 @@
 
 - https://start.spring.io/
 
-- Java 11
+- Java 17
 - Maven Project
 - Spring Web
 - Spring Data JPA
