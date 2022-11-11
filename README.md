@@ -7,11 +7,11 @@
 
 - https://start.spring.io/
 
-- Java 17
+- Java 11
 - Maven Project
 - Spring Web
 - Spring Data JPA
-- MySQL Driver
+- PostgreSQL
 
 ## Postman documetação 
 - https://documenter.getpostman.com/view/17952036/UVJeEwAT
